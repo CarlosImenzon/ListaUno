@@ -1,0 +1,58 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1",TELEFE
+
+https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1624879786~exp=1625056186~acl=/i/evento6hls_1@48399/*~hmac=130b7aa0989e02e6b12ec032c5e3d3988ff58afce7b0fcc97737c1edb9a2e275
+
+#EXTINF:-1 tvg-chno="2",El_NUEVE
+
+https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0OTI2NTE4LCJzZXNzaW9uIjoiNDUuMjM0LjIzMC4xMzMiLCJ3aGl0ZWxpc3QiOlsiNDUuMjM0LjIzMC4xMzMiXX0sInNpZ25hdHVyZSI6IjAxMTk3OGYwYWZiZTkxMmFkZjc0ZDllNjdiMDJmNWRlZmU1ZDgxY2QifQ%3D%3D
+
+#EXTINF:-1 tvg-chno="3",HBO_2
+
+https://655tukzzkj.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=pyTQq7kVdXkSxjDLd7Bjpw&e=1624902697
+
+#EXTINF:-1 tvg-chno="4",FOX_PREMIUM_SERIES
+
+https://655tukzzkj.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=wJ19YbC0A8o5KLxvDUzP8w&e=1624903144
+
+#EXTINF:-1 tvg-chno="5",TNT
+
+https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/master.m3u8?hdnea=st=1624894037~exp=1624894637~acl=/*~hmac=e38abccc32593e830ce86470b06fec6f91f8ad90cde15db1dde8e71deeb597f7
+
+#EXTINF:-1 tvg-chno="6.1",SPACE(Opcion1)
+
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CocF8zOjWoVF6NwjlmQ9bCQf06Y0s7UYX1aQrH50XYHXjEBjCioIFHzyvU2MeRTINBO2v-p1ROlVoi6EFy1DF7Rsypu9s_kQ-x5n20OBEYOaJXjKAfpz3eWBvaWwzVUkqqupkbrIZnqJnXaEk_Wn_3DLYAnO08ggSQPFkGJqTbHRN8iAmzUmDqwp8qL8iCgMbGNZYtSN67wEw29p7r0y4LJGI2rJIgwhVZS6zsduB8KIz22hWVl5yN2qxyd-XqJ8ywS1zX7IqDbevjIIpoDCsIhWS3GDnF4FiMwt3BZU2Jr81hz4c761KbzGDRlCAyAj9rbRA--HVbc44h7Sq1MZM0iXpeEtGpT-8aggAgmjDqTzkQhIQ3mvZsrQ0VDpnWSvAvgteZCqphkL3I0QXkLnzmXLA_8yXeXI-CwWYav5sNMS-U-lrtbUJzjVWYN9Et0nWB4lqNqpxMNXtp5peMoHPUW4hFVwIrNtDSmJHYejaFhLcfjA802wbgQFprujtDPVnTCxhNowna1EepP02PdUOHQfIHghgd_K_r7ysxzRLPQZl_f1KpjsFbSjsX_tvKMtjzcLp_DppX70HWoeiCje3r5-S5gj5VIxKqPbGK2JblQg5ysO1NG1U1devoWkt-9CJb4uYGNY5pa7iK7yPtp2sNWrvWmJwUXSfhZ6TrmKhd0WPeI1dl1h0tLmsVNNNmtXgN8Dz7LxM6Njl57njhcvyulNrwMNytpYhWgwP6vVY5quHaRQqT-yDB1Kp7oyHuewuBSxj5mRZC9dSWucWl1G2JVi0Uy_yMf6KjdkKJ_y_tfwmxlG9L1sSod8KUAOi3mH7TVLdplTuAJmcd5zjcPG5Xfw-V0itJvXKdQSEGkM3FmWuRUOBPubepnMoQYaDMVYPMX5wj49QukjrQ.m3u8
+
+#EXTINF:-1 tvg-chno="6.2",SPACE(Opcion2)
+
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1624894040~exp=1624894640~acl=/*~hmac=b995aed877fb06c91da07c75b466298b737383763fad9f58c7a5ee2012df3709
+
+#EXTINF:-1 tvg-chno="7",FOX_CHANNEL
+
+https://655tukzzkj.azcdn728.net:8443/hls/0e733j.m3u8?s=QjaY2zhVjHUYeP_RcCqJnw&e=1624902784
+
+#EXTINF:-1 tvg-chno="8",WARNEL
+
+https://655tukzzkj.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=M1mD0_7huH9RhUPDDi0F-w&e=1624902850
+
+#EXTINF:-1 tvg-chno="9",CINEMAX
+
+https://655tukzzkj.azcdn728.net:8443/hls/ztv7sh.m3u8?s=rFctGjweQmgDxfltGw_uXA&e=1624915411
+
+#EXTINF:-1 tvg-chno="10",UNIVERSAL_CHANNEL
+
+https://655tukzzkj.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=M6KfjeCG8DhVrPnbMNA2xA&e=1624915496
+
+#EXTINF:-1 tvg-chno="11",PARAMOUNT
+
+https://655tukzzkj.azcdn728.net:8443/hls/vwchy5d.m3u8?s=pl7Gexz8nzsXjykCalyaKA&e=1624915681
+
+#EXTINF:-1 tvg-chno="100",UN_LUGAR_TRANQUILO_2
+
+https://867320390.tapecontent.net/radosgw/lDZQM2g3AGhbjp/hXQo9H6lfH43nw5XZ9HrkL9vKaYOcVAobFouwWoKbM5DRddLFHwO9wDo5n1QYlfVpnKLYg0viGejbKGKWQBNEgbAyB5_rq-P5in0HyEjp6CHz469VCK3s0f2GoslAAXDz20b9exJhOVTtBEPuYJMpCS534bRdwb8dMJrOg3dRpfSCAkISVbW8RtiNBCZUPcsw4_Qi229MOpjIbklhYM7wP-pHVeQWjUQrcU8sP3O_ygXgbkceI_xyawzMcGrxevoZKK904Z1j_NOAPJBl1jGRHzWBS_05OolF6nBkA/7NyzaM1B7pw.mp4?stream=1
+
+#EXTINF:-1 tvg-chno="101",DURO_DE_CUIDAR_2
+
+https://gnula.li/player/mMybcFIBAkwLnM0tT4YoI-AabpncnQabtV1HM6Mal03nIdfer24NIfDb9kuqC93hR8zJi3fmw_--_--Vs/gAcexGxcLNTue-IIsKpPVZ-UIqwFXyVgN2Xy_pEfukQz9R9RQied6P8WJD1lANUALJsrRpR5SMpGW_GDa/q_Ux89wt2u_F_G5ZOmsejfoTqCYrFcG7qCkiP3oVguxV-AqrHxnezXcJw-vcqoP0XlLPdTqMyfDEoEIfh/i_YWmIz1kwc9jReej68FXE2B8lsg6ouibt8aqN4wWo5dlVE7T5cT4BKf6Uxr0nHq3e1XcFnYt4LS2MLIY=.mp4
