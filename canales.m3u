@@ -2,58 +2,43 @@
 
 
 #EXTINF:-1 tvg-chno="1",TELEFE
-
-https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1624879786~exp=1625056186~acl=/i/evento6hls_1@48399/*~hmac=130b7aa0989e02e6b12ec032c5e3d3988ff58afce7b0fcc97737c1edb9a2e275
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1624913891~exp=1624921091~acl=/i/appmitelefe_1@326430/*~hmac=8d825704b50f0360c130eb50e8cdc74fb702e11cf9dd84419bbe6be279840fa6
 
 #EXTINF:-1 tvg-chno="2",El_NUEVE
-
 https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0OTI2NTE4LCJzZXNzaW9uIjoiNDUuMjM0LjIzMC4xMzMiLCJ3aGl0ZWxpc3QiOlsiNDUuMjM0LjIzMC4xMzMiXX0sInNpZ25hdHVyZSI6IjAxMTk3OGYwYWZiZTkxMmFkZjc0ZDllNjdiMDJmNWRlZmU1ZDgxY2QifQ%3D%3D
 
 #EXTINF:-1 tvg-chno="3",HBO_2
-
-https://655tukzzkj.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=pyTQq7kVdXkSxjDLd7Bjpw&e=1624902697
-
-#EXTINF:-1 tvg-chno="4",FOX_PREMIUM_SERIES
-
-https://655tukzzkj.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=wJ19YbC0A8o5KLxvDUzP8w&e=1624903144
+https://655tukzzkj.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=fzNGOA-XpEPIxl2TVg6j4Q&e=1624939651
 
 #EXTINF:-1 tvg-chno="5",TNT
-
 https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/master.m3u8?hdnea=st=1624894037~exp=1624894637~acl=/*~hmac=e38abccc32593e830ce86470b06fec6f91f8ad90cde15db1dde8e71deeb597f7
 
-#EXTINF:-1 tvg-chno="6.1",SPACE(Opcion1)
-
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CocF8zOjWoVF6NwjlmQ9bCQf06Y0s7UYX1aQrH50XYHXjEBjCioIFHzyvU2MeRTINBO2v-p1ROlVoi6EFy1DF7Rsypu9s_kQ-x5n20OBEYOaJXjKAfpz3eWBvaWwzVUkqqupkbrIZnqJnXaEk_Wn_3DLYAnO08ggSQPFkGJqTbHRN8iAmzUmDqwp8qL8iCgMbGNZYtSN67wEw29p7r0y4LJGI2rJIgwhVZS6zsduB8KIz22hWVl5yN2qxyd-XqJ8ywS1zX7IqDbevjIIpoDCsIhWS3GDnF4FiMwt3BZU2Jr81hz4c761KbzGDRlCAyAj9rbRA--HVbc44h7Sq1MZM0iXpeEtGpT-8aggAgmjDqTzkQhIQ3mvZsrQ0VDpnWSvAvgteZCqphkL3I0QXkLnzmXLA_8yXeXI-CwWYav5sNMS-U-lrtbUJzjVWYN9Et0nWB4lqNqpxMNXtp5peMoHPUW4hFVwIrNtDSmJHYejaFhLcfjA802wbgQFprujtDPVnTCxhNowna1EepP02PdUOHQfIHghgd_K_r7ysxzRLPQZl_f1KpjsFbSjsX_tvKMtjzcLp_DppX70HWoeiCje3r5-S5gj5VIxKqPbGK2JblQg5ysO1NG1U1devoWkt-9CJb4uYGNY5pa7iK7yPtp2sNWrvWmJwUXSfhZ6TrmKhd0WPeI1dl1h0tLmsVNNNmtXgN8Dz7LxM6Njl57njhcvyulNrwMNytpYhWgwP6vVY5quHaRQqT-yDB1Kp7oyHuewuBSxj5mRZC9dSWucWl1G2JVi0Uy_yMf6KjdkKJ_y_tfwmxlG9L1sSod8KUAOi3mH7TVLdplTuAJmcd5zjcPG5Xfw-V0itJvXKdQSEGkM3FmWuRUOBPubepnMoQYaDMVYPMX5wj49QukjrQ.m3u8
-
 #EXTINF:-1 tvg-chno="6.2",SPACE(Opcion2)
-
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1624894040~exp=1624894640~acl=/*~hmac=b995aed877fb06c91da07c75b466298b737383763fad9f58c7a5ee2012df3709
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1624917730~exp=1624918330~acl=/*~hmac=6e8b94f6595bb7dca2f442299a5efaa85aff4501334349159951a87604a337cf
 
 #EXTINF:-1 tvg-chno="7",FOX_CHANNEL
-
 https://655tukzzkj.azcdn728.net:8443/hls/0e733j.m3u8?s=QjaY2zhVjHUYeP_RcCqJnw&e=1624902784
 
 #EXTINF:-1 tvg-chno="8",WARNEL
-
 https://655tukzzkj.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=M1mD0_7huH9RhUPDDi0F-w&e=1624902850
 
 #EXTINF:-1 tvg-chno="9",CINEMAX
-
 https://655tukzzkj.azcdn728.net:8443/hls/ztv7sh.m3u8?s=rFctGjweQmgDxfltGw_uXA&e=1624915411
 
 #EXTINF:-1 tvg-chno="10",UNIVERSAL_CHANNEL
-
 https://655tukzzkj.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=M6KfjeCG8DhVrPnbMNA2xA&e=1624915496
 
 #EXTINF:-1 tvg-chno="11",PARAMOUNT
-
 https://655tukzzkj.azcdn728.net:8443/hls/vwchy5d.m3u8?s=pl7Gexz8nzsXjykCalyaKA&e=1624915681
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png",DirecTV_Sport
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/1624643012/spa1-aac-spa1-init.mp4
 
 #EXTINF:-1 tvg-chno="100",UN_LUGAR_TRANQUILO_2
 
 https://867320390.tapecontent.net/radosgw/lDZQM2g3AGhbjp/hXQo9H6lfH43nw5XZ9HrkL9vKaYOcVAobFouwWoKbM5DRddLFHwO9wDo5n1QYlfVpnKLYg0viGejbKGKWQBNEgbAyB5_rq-P5in0HyEjp6CHz469VCK3s0f2GoslAAXDz20b9exJhOVTtBEPuYJMpCS534bRdwb8dMJrOg3dRpfSCAkISVbW8RtiNBCZUPcsw4_Qi229MOpjIbklhYM7wP-pHVeQWjUQrcU8sP3O_ygXgbkceI_xyawzMcGrxevoZKK904Z1j_NOAPJBl1jGRHzWBS_05OolF6nBkA/7NyzaM1B7pw.mp4?stream=1
 
-#EXTINF:-1 tvg-chno="101",CRUELLA
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/21/11/08/5393301.jpg",CRUELLA
 
 https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1356565541&e=s&n=7970432569719221&abc=1&aid=gz_FBsVMEeWiQBKCk4Wcgw&at=1&c=0&ccp=0&cp=0&d=1&eb=0&ed=6&emi=1lftw6915xm4&gfb=0&gifr=0&gios=0&i=1&lid=1nov2m91tc9n&lsa=read&mt=0&pbd=1&pbr=1&pgi=1csffwo11ba6&ph=1&pid=KB5zFt7A&pii=0&pl=278&plc=1&pli=1n15sk8ytvrp&pp=html5&ppm=VOD&prc=1&ps=2&pss=1&pt=C3.io%20Player&pu=https%3A%2F%2Fdamedamehoy.xyz%2Fembed.html%23aEZXZlhvTXE0ZTYrZG1xSGxrYkFOOFRBV3FRb2ErRzZkQ1o3R0VaYjN4WWxnQ1NDTW9MU3hSTWRXZ2Z0OUR0U1pId0ExNzRacjJjTGIrRTJhSXlZbi9WZEVRdG9ydjQ5aXNSS0RyL2JNL0U9&pv=8.20.10&pyc=1&s=0&sdk=0&stc=1&stpe=0&tv=3.13.0&vb=1&vi=1&vl=90&wd=492&abm=0&cae=0&cct=0&drm=0&ff=2920&l=4&mk=mp4&mu=https%3A%2F%2F00f74ba44b446282a9f73f9eca1b4599dd9e37873e-apidata.googleusercontent.com%2Fdownload%2Fstorage%2Fv1%2Fb%2Fvvtas%2Fo%2Ftm337404_LAT_HD%3Fjk%3DAFshE3W95oMmtEskFL9LYMoFDlRO-BZJIoif0MITthd_JAa29bDHzc9Ui-jAbR9X8fTQlGX7eJ3S5s1PRbe8W8h6u512EWMZeWT3BQniGfzf0AemX7OSBhcypFZZf2bRqloufd4wfyJnbM0kn23jX4f5HjZgx3t2T_Risob_LyRE1XAtgl5FnjOv8pfkEc2HshYcT8hOetfnmXVgRz-lZYaJnR7ndi7JIhvHVmwKxr9YDtGkD5Xl_PlFBoUsEe3LezZK6kRxSbOCZYMFgafMlCVWh9HzHUE6PyxsLfB99sF_hJd_7lbFdV6-cyckANZUKfyJPaXzMW4jjxge9QNAnnYHEy9pth4XY5xL32mmiKoyX-S3rV8qlYms9hpTRtowVBlmuKpf8nhfIuw3IDmPh4OxBR8UIOZ_8jOUsffvzrN75L1AGTNxYGVSWXl56duoruqO79uT6vnkMT-ED2qGWF_tzeFnqHCU3fFqcxds-EHxQCmVnm3uihCCqmuBmNUod7ODvjZf4WV9hxT3t3T-c8ie916K1Pjp_DBNoSSMMzGaGtehjEWiu8BY5aRiiiz8UXtXDTYy6XTv_3w_hVmqEb7W1g0-sS-u647B5ZE-AQIs9OaabTGUJ8kga9KfNllc-SaF-wtkueE8rsmH2mxT_W1YPiqSUxgiWLSfNWGoevKrjCACC5a0MtJT2JkRoP_Q6nPz931H2JQ6Egj1tScdx8yJlyjqxj-LMJlqvEezWmNpv1XgXLV6AnrzwhxglR0uDljwIxK0EPOM0aA0zQN1HQrQww6Kc-lLdWr6-PD7Ga8H7smmF-VXe3hCx8RMkJPJ727PKoPdF2k05xmVPOn9zVDNqWjYMjgEUukg3J179QaYZhw_Jfc3v4QoYT3-XXO3DG7Z15BQblQgtWSnEEIiPHBqAn8CAGcHpHOBZ02yXKZwONlOMuPzHmaw1fDfKOE3ut3yCCnql1p6HlhXj-I3uvIB%26isca%3D1&pd=2&plng=es-419&pni=0&pnl=42&pr=2&q=32&qcr=initial%20choice&sp=0&tb=1&tt=0&vd=8035&vh=1080&vs=4&vw=1920&sa=1624901814212
 
