@@ -1,44 +1,32 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-chno="1",TELEFE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1624913891~exp=1624921091~acl=/i/appmitelefe_1@326430/*~hmac=8d825704b50f0360c130eb50e8cdc74fb702e11cf9dd84419bbe6be279840fa6
+#EXTINF:-1 tvg-chno="1",WARNEL_CHANNEL
+https://655tukzzkj.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=aMRr2JRA1Pv7FPfHVG_yoQ&e=1624943282
 
-#EXTINF:-1 tvg-chno="2",El_NUEVE
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0OTI2NTE4LCJzZXNzaW9uIjoiNDUuMjM0LjIzMC4xMzMiLCJ3aGl0ZWxpc3QiOlsiNDUuMjM0LjIzMC4xMzMiXX0sInNpZ25hdHVyZSI6IjAxMTk3OGYwYWZiZTkxMmFkZjc0ZDllNjdiMDJmNWRlZmU1ZDgxY2QifQ%3D%3D
+#EXTINF:-1 tvg-chno="2",SONY
+https://655tukzzkj.azcdn728.net:8443/hls/oc2v2i6j.m3u8?s=Kec3Q-0DM91QShBhdpedzQ&e=1624943367
 
-#EXTINF:-1 tvg-chno="3",HBO_2
-https://655tukzzkj.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=fzNGOA-XpEPIxl2TVg6j4Q&e=1624939651
+#EXTINF:-1 tvg-chno="3",FOX_CHANNEL
+https://655tukzzkj.azcdn728.net:8443/hls/0e733j.m3u8?s=eMaxYAswE-vXv4V2kj8_zA&e=1624943414
 
-#EXTINF:-1 tvg-chno="4",TNT
-https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/master.m3u8?hdnea=st=1624918963~exp=1624919563~acl=/*~hmac=c5ce7d6a7f763a9bdd1ea032d12d80e3cff6a98aece1423e26355caca1d56d96
+#EXTINF:-1 tvg-chno="4",FOX_PREMIUM_MOVIE
+https://655tukzzkj.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=rbbonP68_MWynABgkS9_PQ&e=1624943444
 
-#EXTINF:-1 tvg-chno="5",SPACE
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-p.m3u8?sd=10&rebase=on&id=AgAt6uaFF8xmNcdM2mAQ2Sh95A9yPxkuNX+JR1NeEG6aIaQAfCqgEfVE88zSDi3Rz692lpl4DCV42w%3d%3d&hdntl=exp=1624940839~acl=%2f*~data=hdntl~hmac=826ebf35e46d1593eef46dc31f4d60408873a740ae05a7dd692db87c14da3968
+#EXTINF:-1 tvg-chno="5",FOX_PREMIUM_COMEDY
+https://655tukzzkj.azcdn728.net:8443/hls/pnc0det5nknvqo.m3u8?s=pMinkYY2eyrSXfVxAjyM7A&e=1624943486
 
-#EXTINF:-1 tvg-chno="6",FOX_CHANNEL
-https://655tukzzkj.azcdn728.net:8443/hls/0e733j.m3u8?s=QjaY2zhVjHUYeP_RcCqJnw&e=1624902784
+#EXTINF:-1 tvg-chno="6",FOX_PREMIUM_SERIES
+https://655tukzzkj.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=ptX5H0PAxdHE2WPTJvpApg&e=1624943559
 
-#EXTINF:-1 tvg-chno="7",WARNEL
-https://655tukzzkj.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=M1mD0_7huH9RhUPDDi0F-w&e=1624902850
+#EXTINF:-1 tvg-chno="7",FOX_PREMIUM_ACTION
+https://655tukzzkj.azcdn728.net:8443/hls/4612rwe.m3u8?s=MXO9scbIMGtHp1-3S2i6dQ&e=1624943595
 
 #EXTINF:-1 tvg-chno="8",CINEMAX
-https://655tukzzkj.azcdn728.net:8443/hls/ztv7sh.m3u8?s=CPMgFCqLPtUTtsfLvQPBUA&e=1624940987
+https://655tukzzkj.azcdn728.net:8443/hls/ymv0a1aobkxuf.m3u8?s=G3edJlLBvbsKZfL1CyfJrA&e=1624943632
 
-#EXTINF:-1 tvg-chno="9",UNIVERSAL_CHANNEL
-https://655tukzzkj.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=ZpP4bL_UnT0jzm6ErtwOCA&e=1624941034
+#EXTINF:-1 tvg-chno="9",CINECANAL
+https://655tukzzkj.azcdn728.net:8443/hls/ztv7sh.m3u8?s=bDX-8Llxdb7BrJnjZX_TxA&e=1624943687
 
-#EXTINF:-1 tvg-chno="10",PARAMOUNT
-https://655tukzzkj.azcdn728.net:8443/hls/vwchy5d.m3u8?s=pl7Gexz8nzsXjykCalyaKA&e=1624915681
-
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png",DirecTV_Sport
-https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/1624643012/spa1-aac-spa1-init.mp4
-
-#EXTINF:-1 tvg-chno="100",UN_LUGAR_TRANQUILO_2
-https://867320390.tapecontent.net/radosgw/lDZQM2g3AGhbjp/hXQo9H6lfH43nw5XZ9HrkL9vKaYOcVAobFouwWoKbM5DRddLFHwO9wDo5n1QYlfVpnKLYg0viGejbKGKWQBNEgbAyB5_rq-P5in0HyEjp6CHz469VCK3s0f2GoslAAXDz20b9exJhOVTtBEPuYJMpCS534bRdwb8dMJrOg3dRpfSCAkISVbW8RtiNBCZUPcsw4_Qi229MOpjIbklhYM7wP-pHVeQWjUQrcU8sP3O_ygXgbkceI_xyawzMcGrxevoZKK904Z1j_NOAPJBl1jGRHzWBS_05OolF6nBkA/7NyzaM1B7pw.mp4?stream=1
-
-#EXTINF:-1 tvg-chno="101" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/21/11/08/5393301.jpg",CRUELLA
-https://860567208.tapecontent.net/radosgw/jv31xQkGPRuGkA/XwU21Scn0EBrafKf0vfbCiLZKU2kdrxOusA67j34_ckANpTW4UdjsELj6rs1L2--dDRE1N57SGxPMeHsx63z3WE_tjcMbRVLPGhMjoL_uxFcqGoO9oJL9Hh2Eb5j2rw92x0Qni_53BLdRYu3pjwMFGD02YoInq-XARwaSXhVKV_IGMHdWf3MJEXEf8N1P7VdIl41JQoRKjOSeMaTeN1zzO9UYaeOqTwsnERxAqC_BtYHUPOrL6TeiaKqDAQw74jiuqX16JD12fktdlbr_T-ZT5REu7JO-jrOtbn_mw/vpKBdKzweDn-streamtape.mp4?stream=1
-
-#EXTINF:-1 tvg-chno="102",LUCA
-https://cuevana-gratis.com/assets/v1/video/movie.mp4
+#EXTINF:-1 tvg-chno="10",GOLDEN
+https://655tukzzkj.azcdn728.net:8443/hls/lnxn10nmtnl5.m3u8?s=hDXG_il_KkqSXz7tb6YyGA&e=1624943725
