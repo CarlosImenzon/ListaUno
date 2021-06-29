@@ -1,32 +1,234 @@
-#EXTM3U
 
-
-#EXTINF:-1 tvg-chno="1",WARNEL_CHANNEL
-https://655tukzzkj.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=aMRr2JRA1Pv7FPfHVG_yoQ&e=1624943282
-
-#EXTINF:-1 tvg-chno="2",SONY
-https://655tukzzkj.azcdn728.net:8443/hls/oc2v2i6j.m3u8?s=Kec3Q-0DM91QShBhdpedzQ&e=1624943367
-
-#EXTINF:-1 tvg-chno="3",FOX_CHANNEL
-https://655tukzzkj.azcdn728.net:8443/hls/0e733j.m3u8?s=eMaxYAswE-vXv4V2kj8_zA&e=1624943414
-
-#EXTINF:-1 tvg-chno="4",FOX_PREMIUM_MOVIE
-https://655tukzzkj.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=rbbonP68_MWynABgkS9_PQ&e=1624943444
-
-#EXTINF:-1 tvg-chno="5",FOX_PREMIUM_COMEDY
-https://655tukzzkj.azcdn728.net:8443/hls/pnc0det5nknvqo.m3u8?s=pMinkYY2eyrSXfVxAjyM7A&e=1624943486
-
-#EXTINF:-1 tvg-chno="6",FOX_PREMIUM_SERIES
-https://655tukzzkj.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=ptX5H0PAxdHE2WPTJvpApg&e=1624943559
-
-#EXTINF:-1 tvg-chno="7",FOX_PREMIUM_ACTION
-https://655tukzzkj.azcdn728.net:8443/hls/4612rwe.m3u8?s=MXO9scbIMGtHp1-3S2i6dQ&e=1624943595
-
-#EXTINF:-1 tvg-chno="8",CINEMAX
-https://655tukzzkj.azcdn728.net:8443/hls/ymv0a1aobkxuf.m3u8?s=G3edJlLBvbsKZfL1CyfJrA&e=1624943632
-
-#EXTINF:-1 tvg-chno="9",CINECANAL
-https://655tukzzkj.azcdn728.net:8443/hls/ztv7sh.m3u8?s=bDX-8Llxdb7BrJnjZX_TxA&e=1624943687
-
-#EXTINF:-1 tvg-chno="10",GOLDEN
-https://655tukzzkj.azcdn728.net:8443/hls/lnxn10nmtnl5.m3u8?s=hDXG_il_KkqSXz7tb6YyGA&e=1624943725
+     
+#EXTM3U, 
+ 
+#EXTINF:-1, A&E HD
+http://regiotv.xyz/IPTV/aye.php
+ 
+#EXTINF:-1, AMC HD
+http://regiotv.xyz/IPTV/amc.php
+ 
+#EXTINF:-1, ANIMAL PLANET HD
+http://regiotv.xyz/IPTV/animalplanet.php
+ 
+#EXTINF:-1, AXN HD
+http://regiotv.xyz/IPTV/axn.php
+ 
+#EXTINF:-1, AZCORAZON HD
+http://regiotv.xyz/IPTV/azcorazon.php
+ 
+#EXTINF:-1, AZMUNDO HD
+http://regiotv.xyz/IPTV/azmundo.php
+ 
+#EXTINF:-1, CINE LATINO SD
+http://regiotv.xyz/IPTV/cinelatino.php
+ 
+#EXTINF:-1, CINECANAL HD
+http://regiotv.xyz/IPTV/cinecanal.php
+ 
+#EXTINF:-1, CINEMA DINAMITA SD
+http://regiotv.xyz/IPTV/cinedinamita.php
+ 
+#EXTINF:-1, CINEMAX SD
+http://regiotv.xyz/IPTV/cinemax.php
+ 
+#EXTINF:-1, CLARO SPORTS HD
+http://regiotv.xyz/IPTV/clarosports.php
+ 
+#EXTINF:-1, COMEDIA CENTRAL HD
+http://regiotv.xyz/IPTV/comedycentral.php
+ 
+#EXTINF:-1, DHE HD
+http://regiotv.xyz/IPTV/dhe.php
+ 
+#EXTINF:-1, DISCOVERY CHANNEL HD
+http://regiotv.xyz/IPTV/dchannel.php
+ 
+#EXTINF:-1, DISCOVERY KIDS HD
+http://regiotv.xyz/IPTV/discoverykids.php
+ 
+#EXTINF:-1, DISCOVERY SCIENCE HD
+http://regiotv.xyz/IPTV/dscience.php
+ 
+#EXTINF:-1, DISCOVERY THEATER HD
+http://regiotv.xyz/IPTV/dtheater.php
+ 
+#EXTINF:-1, DISCOVERY TLC HD
+http://regiotv.xyz/IPTV/dtlc.php
+ 
+#EXTINF:-1, DISCOVERY TURBO HD
+http://regiotv.xyz/IPTV/dturbo.php
+ 
+#EXTINF:-1, DISNEY HD
+http://regiotv.xyz/IPTV/disney.php
+ 
+#EXTINF:-1, DISNEY JUNIOR
+http://regiotv.xyz/IPTV/disneyjr.php
+ 
+#EXTINF:-1, DISNEY XD HD
+http://regiotv.xyz/IPTV/disneyxd.php
+ 
+#EXTINF:-1, E! HD
+http://regiotv.xyz/IPTV/e.php
+ 
+#EXTINF:-1, ESPN + HD
+http://regiotv.xyz/IPTV/espnplus.php
+ 
+#EXTINF:-1, ESPN 2 HD
+http://regiotv.xyz/IPTV/espn2.php
+ 
+#EXTINF:-1, ESPN 3
+http://regiotv.xyz/IPTV/espn3.php
+ 
+#EXTINF:-1, FOX ACTION 2 HD
+http://regiotv.xyz/IPTV/foxactionmx.php
+ 
+#EXTINF:-1, FOX ACTION HD
+http://regiotv.xyz/IPTV/foxaction.php
+ 
+#EXTINF:-1, FOX CINEMA HD
+http://regiotv.xyz/IPTV/foxcinema.php
+ 
+#EXTINF:-1, FOX CINEMA SUB HD
+http://regiotv.xyz/IPTV/foxcinemasub.php
+ 
+#EXTINF:-1, FOX CLASSICS HD
+http://regiotv.xyz/IPTV/foxclassics.php
+ 
+#EXTINF:-1, FOX COMEDY HD
+http://regiotv.xyz/IPTV/foxcomedy.php
+ 
+#EXTINF:-1, FOX FAMILY HD
+http://regiotv.xyz/IPTV/foxfamily.php
+ 
+#EXTINF:-1, FOX HD
+http://regiotv.xyz/IPTV/fox.php
+ 
+#EXTINF:-1, FOX LIFE HD
+http://regiotv.xyz/IPTV/foxlife.php
+ 
+#EXTINF:-1, FOX MOVIES HD
+http://regiotv.xyz/IPTV/foxmovies.php
+ 
+#EXTINF:-1, FOX SERIES GD
+http://regiotv.xyz/IPTV/foxseries.php
+ 
+#EXTINF:-1, FOX SPORTS 2 HD
+http://regiotv.xyz/IPTV/fs2.php
+ 
+#EXTINF:-1, FOX SPORTS 2 MEX HD
+http://regiotv.xyz/IPTV/fsmx2.php
+ 
+#EXTINF:-1, FOX SPORTS 3 HD
+http://regiotv.xyz/IPTV/fs3.php
+ 
+#EXTINF:-1, FOX SPORTS 3 MEX HD
+http://regiotv.xyz/IPTV/fsmx3.php
+ 
+#EXTINF:-1, FOX SPORTS HD
+http://regiotv.xyz/IPTV/fs.php
+ 
+#EXTINF:-1, FOX SPORTS MEX HD
+http://regiotv.xyz/IPTV/fsmx.php
+ 
+#EXTINF:-1, FX HD
+http://regiotv.xyz/IPTV/fx.php
+ 
+#EXTINF:-1, FXM HD
+http://regiotv.xyz/IPTV/fxm.php
+ 
+#EXTINF:-1, GOLDEN HD
+http://regiotv.xyz/IPTV/golden.php
+ 
+#EXTINF:-1, GOLDEN PREMIER HD
+http://regiotv.xyz/IPTV/goldenpremier.php
+ 
+#EXTINF:-1, HBO 2 HD
+http://regiotv.xyz/IPTV/hbo2.php
+ 
+#EXTINF:-1, HBO FAMILY HD
+http://regiotv.xyz/IPTV/hbofamily.php
+ 
+#EXTINF:-1, HBO HD
+http://regiotv.xyz/IPTV/hbo.php
+ 
+#EXTINF:-1, HBO PLUS HD
+http://regiotv.xyz/IPTV/hboplus.php
+ 
+#EXTINF:-1, HISTORY CHANNEL
+http://regiotv.xyz/IPTV/history.php
+ 
+#EXTINF:-1, MAX HD
+http://regiotv.xyz/IPTV/max.php
+ 
+#EXTINF:-1, MAX PRIME HD
+http://regiotv.xyz/IPTV/maxprime.php
+ 
+#EXTINF:-1, MaxUP
+http://regiotv.xyz/IPTV/maxup.php
+ 
+#EXTINF:-1, MTV HD
+http://regiotv.xyz/IPTV/mtv.php
+ 
+#EXTINF:-1, MTV HITS HD
+http://regiotv.xyz/IPTV/mtvhts.php
+ 
+#EXTINF:-1, MULTIPREMIER HD
+http://regiotv.xyz/IPTV/multipremier.php
+ 
+#EXTINF:-1, NAT GEO 2 HD
+http://regiotv.xyz/IPTV/natgeomx.php
+ 
+#EXTINF:-1, NAT GEO HD
+http://regiotv.xyz/IPTV/natgeo.php
+ 
+#EXTINF:-1, NAT GEO KIDS HD
+http://regiotv.xyz/IPTV/natgeokids.php
+ 
+#EXTINF:-1, NAT GEO WILD HD
+http://regiotv.xyz/IPTV/natgeowild.php
+ 
+#EXTINF:-1, NICK 2 HD
+http://regiotv.xyz/IPTV/nick2.php
+ 
+#EXTINF:-1, NICK HD
+http://regiotv.xyz/IPTV/nick.php
+ 
+#EXTINF:-1, NICK JUNIOR HD
+http://regiotv.xyz/IPTV/nickjr.php
+ 
+#EXTINF:-1, SONY HD
+http://regiotv.xyz/IPTV/sony.php
+ 
+#EXTINF:-1, SPACE HD
+http://regiotv.xyz/IPTV/space.php
+ 
+#EXTINF:-1, STUDIO UNIVERSAL HD
+http://regiotv.xyz/IPTV/studiouniversal.php
+ 
+#EXTINF:-1, TNT HD
+http://regiotv.xyz/IPTV/tnt.php
+ 
+#EXTINF:-1, TNT SERIES HD
+http://regiotv.xyz/IPTV/tntseries.php
+ 
+#EXTINF:-1, Unicable
+http://regiotv.xyz/IPTV/unicable.php
+ 
+#EXTINF:-1, UNIVERSAL CHANNEL HD
+http://regiotv.xyz/IPTV/universal.php
+ 
+#EXTINF:-1, Ve Plus
+http://regiotv.xyz/IPTV/veplus.php
+ 
+#EXTINF:-1, WARNER HD
+http://regiotv.xyz/IPTV/warner.php
+ 
+#EXTINF:-1, WINS SPORTS
+http://regiotv.xyz/IPTV/winsports.php
+ 
+#EXTINF:-1,CARTOON NETWORK
+http://regiotv.xyz/IPTV/cn.php
+ 
+#EXTINF:-1,CLARO SPORTS 2
+http://regiotv.xyz/IPTV/clarossports2.php
